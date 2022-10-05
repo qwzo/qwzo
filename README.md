@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projec availablts are at [https://github.com/qwzo](https://github.com/qwzo)
 
-- 📝 Follow me on instagram : [qwzoongithub](qwzoongithub)
+- 💳 Support me  : 
 
 - 💬 Ask me about **language,dev,hack and more**
 
