@@ -12,7 +12,8 @@
 
 - 👨‍💻 All of my projec availablts are at [https://github.com/qwzo](https://github.com/qwzo)
 
-- 💳 Support me  : 
+- 💳 ETH : 0x3a8F64d86E22806b45cC521517377864d1B21D84
+
 
 - 💬 Ask me about **language,dev,hack and more**
 
