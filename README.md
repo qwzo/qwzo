@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Qwzo</h1>
 <h3 align="center">A novice hacker and developer from Russia</h3>
-<img align="right" alt="Coding" width="60" src="https://indoanalytica.com/static/images/bannerr.gif">
+<img align="right" alt="Coding" width="1500" src="https://indoanalytica.com/static/images/bannerr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qwzo&label=Profile%20views&color=0e75b6&style=flat" alt="qwzo" /> </p>
 
